@@ -1,0 +1,44 @@
+body {
+    border: 5px solid black;
+    font-family: sans-serif;
+}
+
+h2 {
+    background-color: #f7f7f7;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h4 {
+    text-transform: uppercase;
+}
+
+.price {
+    font-weight: bold;
+}
+
+.shipping {
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+a:link {
+    color: black;
+}
+
+p {
+    font-size: 13px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    color: #000;
+    background-color: #fff;
+}
